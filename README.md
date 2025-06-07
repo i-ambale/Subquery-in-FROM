@@ -12,13 +12,14 @@ In this notebook, you'll learn:
 - How to filter, aggregate, and analyze real-world data using SQL.
 
 ## 📂 Project Structure
-
+```
 united-nations-sql/
 │
 ├── notebook.ipynb         # Main Jupyter Notebook with SQL queries and analysis
 ├── README.md              # This file
 ├── requirements.txt       # Python dependencies
 └── db_setup/              # Optional folder to include SQL schema or sample data
+```
 
 ## 🧰 Requirements
 Make sure the following tools are installed on your local machine:
